@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Style.css'
 import Input from '../components/Input';
-import Button from '../components/button';
+import Button from '../components/Button';
 import Heading from '../components/Heading';
 
 const LoginScreen = () => {
