@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Style.css'
 import Heading from '../components/Heading';
 import Input from '../components/Input';
-import Button from '../components/button';
+import Button from '../components/Button';
 import Radio from '../components/Radio';
 
 const SignupScreen = () => {
