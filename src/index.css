@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+input[type="text"]:focus ~ .input-text{
+  @apply text-blue-500 bg-[#F7F8F9] transform -translate-y-9 -translate-x-4 scale-75;
+
+}

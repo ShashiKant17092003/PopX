@@ -1,0 +1,86 @@
+.card{
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 812px;
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: 1px solid #d7d7d7b8;
+}
+
+.heading{
+    position: relative;
+    top: 549px;
+    left: 20px;
+
+    text-align: left;
+    font: medium 28px 'Rubik', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+}
+
+.content{
+    position: relative;
+    top: 570px;
+    left: 20px;
+    width: 232px;
+    height: 48px;
+    text-align: left;
+    font: normal normal normal 18px/26px 'Rubik', sans-serif;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 0.6;
+}
+.btn {
+    position: relative;
+    left: 20px;
+    width: 335px;
+    height: 46px;
+    border-radius: 6px;
+    opacity: 1;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+.btn-1 {
+    top: 590px;
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    color: white;
+}
+
+.btn-2 {
+    top: 600px;
+    color: black;
+    background: #6C25FF4B 0% 0% no-repeat padding-box;
+}
+
+
+.login-heading{
+    top: 40px;
+    left: 20px;
+    width: 188px;
+}
+.login-content{
+    top: 70px;
+}
+
+.input{
+    position: relative;
+    top: 150px;
+    outline: none;
+}
+input{
+    outline: none;
+}
+input:focus {
+    outline: none;
+}
+
+.login-password{
+    top: 170px;
+}
